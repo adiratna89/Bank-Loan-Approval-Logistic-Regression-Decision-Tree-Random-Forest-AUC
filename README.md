@@ -107,9 +107,9 @@ The **Area Under the ROC Curve (AUC)** was used to evaluate ranking performance:
 
 | Model | AUC Score |
 |---|---|
-| Logistic Regression | ~0.92 |
-| Decision Tree | ~0.96 |
-| **Random Forest** | **~0.99** |
+| Logistic Regression | **0.968** |
+| Decision Tree | **0.964** |
+| **Random Forest** | **0.999** |
 
 AUC values confirm that **Random Forest** consistently outperforms the other models in distinguishing between approved and non-approved loans.
 
